@@ -23,3 +23,8 @@ Ce projet est une application Android développée avec Android Studio qui perme
 4. Explorez les différentes fonctionnalités pour gérer votre stock de gélules.
 
 ## Captures d'Écran
+
+## Auteurs
+
+- **DI PAULI Théo** - Développeur Principal
+- **DANIGO Enzo** - Développeur Principal
